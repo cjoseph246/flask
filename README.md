@@ -1,2 +1,2 @@
-Microblog created with Flask
+Microblog created with Flask and Jinja
 
